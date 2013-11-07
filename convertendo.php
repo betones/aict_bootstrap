@@ -115,43 +115,7 @@
     </div>
 </div>
 
-<div class="jumbotron masthead">
-    <div class="container">
-        <h1>Dropper</h1>
-        <h2>Bootstrap skin. </h2>
-        <br />
-        <br />
-        <br />
-        <div id="css-switcher" class="clearfix" style="margin: 0 auto; *display: inline; *zoom: 1; max-width: 620px;">
-            <a href="#" class="pull-left drop drop-blue" rel="assets/css/bootstrap.blue.min.css"></a>
-            <a href="#" class="pull-left drop drop-green" rel="assets/css/bootstrap.green.min.css"></a>
-            <a href="#" class="pull-left drop drop-orange" rel="assets/css/bootstrap.orange.min.css"></a>
-            <a href="#" class="pull-left drop drop-pink" rel="assets/css/bootstrap.pink.min.css"></a>
-            <a href="#" class="pull-left drop drop-purple" rel="assets/css/bootstrap.purple.min.css"></a>
-        </div>
-        <ul class="masthead-links">
-            <li>
-                <a href="http://www.twitter.com/geedmo" >Twitter</a>
-            </li>
-            <li>
-                <a href="http://codecanyon.net/user/geedmo" >Envato</a>
-            </li>
-            <li>
-                <a href="../../../index.html" >Website</a>
-            </li>
-            <li>
-                Version 2.3.2
-            </li>
-        </ul>
-    </div>
-</div>
 
-<div class="container">
-    <hr class="soften">
-    <div class="text-center">
-        <a href="http://codecanyon.net/item/dropper-bootstrap-skin/4468902?ref=geedmo" class="btn btn-facebook btn-large">Get Dropper</a>
-    </div>
-</div>
 
 <!-- Footer
 ================================================== -->
