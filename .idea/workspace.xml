@@ -38,7 +38,7 @@
       <file leaf-file-name="convertendo.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/convertendo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="11" selection-start="1780" selection-end="1780" vertical-scroll-proportion="0.75" vertical-offset="225" max-vertical-offset="2910">
+            <state line="54" column="41" selection-start="2728" selection-end="2728" vertical-scroll-proportion="-1.1320754" vertical-offset="1590" max-vertical-offset="2910">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -211,10 +211,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33023873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33023873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -280,7 +280,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/convertendo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="11" selection-start="1780" selection-end="1780" vertical-scroll-proportion="0.75" vertical-offset="225" max-vertical-offset="2910">
+        <state line="54" column="41" selection-start="2728" selection-end="2728" vertical-scroll-proportion="-1.1320754" vertical-offset="1590" max-vertical-offset="2910">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

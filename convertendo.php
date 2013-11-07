@@ -49,20 +49,20 @@
             <div class="nav-collapse collapse">
                 <ul class="nav">
                     <li class="active">
-                        <a href="index.html">Home<span class="nav-description">start here</span></a>
+                        <a href="#index.html">Home<span class="nav-description">start here</span></a>
                     </li>
                     <li class="">
-                        <a href="extents.html">Extents<span class="nav-description">Whats up doc?</span></a>
+                        <a href="#extents.html">Extents<span class="nav-description">Whats up doc?</span></a>
                     </li>
-                    <li class=""><a href="uikit.html">UI <span class="nav-description">Kit</span></a> </a></li>
+                    <li class=""><a href="#uikit.html">UI <span class="nav-description">Kit</span></a> </a></li>
                     <li class="">
-                        <a href="base-css.html">Base CSS<span class="nav-description">Fundamental</span></a>
-                    </li>
-                    <li class="">
-                        <a href="components.html">Components<span class="nav-description">all you need</span></a>
+                        <a href="#base-css.html">Base CSS<span class="nav-description">Fundamental</span></a>
                     </li>
                     <li class="">
-                        <a href="javascript.html">JavaScript<span class="nav-description">a kind of magic</span></a>
+                        <a href="#components.html">Components<span class="nav-description">all you need</span></a>
+                    </li>
+                    <li class="">
+                        <a href="#javascript.html">JavaScript<span class="nav-description">a kind of magic</span></a>
                     </li>
                     <li class="dropdown">
                         <a data-toggle="dropdown" class="dropdown-toggle" href="#">Examples <span class="nav-description">see some action</span><b class="caret"></b></a>
